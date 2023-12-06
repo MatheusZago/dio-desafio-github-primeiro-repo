@@ -1,0 +1,8 @@
+Git em si é uma linguagem de versionamento utilizada para se ter maior controle, variedade e segurança com projetos,
+ele é usado a partir do terminal gitbash em uma pasta, podendo transforma-la em git para ter um controle local 
+ou ate mesmo remoto, utilizando de plataformas como o github, que permite não so salvar o código na nuvem 
+como também permite que outras pessoas tenham acesso a ele e suas branches. Branches que por sua vez são versões 
+diferentes do mesmo código que podem ser modificadas sem alterar o principal, deixando assim uma união opcional
+quando tudo estiver certo. 
+
+
